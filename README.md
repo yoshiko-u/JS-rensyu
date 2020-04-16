@@ -1,1 +1,1 @@
-# JS-rensyu
+# Py_rensyu
