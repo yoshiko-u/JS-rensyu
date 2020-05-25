@@ -7,3 +7,13 @@ for k, v in animals:
     else:
         d[k].append(v)
 print(d)
+
+import datetime
+d1 = datetime.date(2020,5,25)
+td = datetime .timedelta(days=100)
+d2 = d1 + td
+print(d2)
+
+import calendar
+print(calendar.month(2020,5))
+
